@@ -1,0 +1,18 @@
+
+
+Teste Caixa Preta 
+
+ Suas derivações : 
+
+    Um dos critérios para o teste de caixa preta é o particionamento por equivalência : A ídéia é o seguinte 
+    é procurar na especificação uma maneira de dividir o Domínio de entrada,
+      Por Exemplo numa dada especificação pode ter escrito " Esse dado só pode ser positivo" 
+
+      Eu preciso dividir em classes de equivalência por exemplo " Essa entrada sendo positiva ou essa entrada
+      sendo menor ou igual a zero" Aí a partir disso escolher dessas classes dividas casos de teste o o o o o o o o o o
+
+
+ laerte e gustavo
+ laerte e gustavo
+ laerte e gustavo
+ laerte e gustavo
